@@ -66,7 +66,7 @@ $xml = @'
     <FolderPairs>
         <Pair>
             <Left>%UserProfile%</Left>
-            <Right>Z:\</Right>
+            <Right>Z:\pc\</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>
