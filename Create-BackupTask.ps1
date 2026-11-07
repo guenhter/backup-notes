@@ -1,7 +1,7 @@
 param(
     [string]$TaskName = "UserHomeBackup",
     [string]$Source = "$env:USERPROFILE",
-    [string]$Destination = "Z:\",
+    [string]$Destination = "Z:\pc\",
     [string]$BatchFilePath = "$env:USERPROFILE\.backup\BackupJob.ffs_batch"
 )
 
